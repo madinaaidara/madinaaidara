@@ -1,16 +1,14 @@
-## Hi there 👋
+# Bienvenue sur mon GitHub !
 
-<!--
-**madinaaidara/madinaaidara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Madina Aïdara, étudiante en Génie Informatique passionnée par le développement web, la cybersécurité et l’analyse de données.
 
-Here are some ideas to get you started:
+## Mes projets récents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [*Livres & Avis - Laravel*](https://github.com/madinaaidara/livres-Avis-Laravel) : Application web pour enregistrer des livres et les avis associés.
+- [*Calen.IO*](https://github.com/tourad009/Calen.IO) : Outil de gestion de rendez-vous (collaboration en équipe).
+- [*Chess Game*](https://github.com/DjibrilDia1/chessGame) : Jeu d’échecs en ligne.
+- [*Test*](https://github.com/madinaaidara/test) : Dépôt d’expérimentation.
+
+---
+
+*Merci de visiter mon profil GitHub !*
